@@ -5,7 +5,6 @@
 - :chart_with_upwards_trend: Coding Profiles : 
 - LeetCode : https://leetcode.com/sam02202001/
 - CodeForces : https://codeforces.com/profile/sam02202001
-- CodeChef : https://www.codechef.com/users/sam20010220
 - 
 - :love_letter: Reach me by following means :
 - LinkedIn : https://www.linkedin.com/in/sahilbassan/
