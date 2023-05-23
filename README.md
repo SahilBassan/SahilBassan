@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil Bassan
-- 👀 I’m Full Stack Web Developer 
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m Full Stack Web Developer and Competitive Coder
+- 🌱 I’m currently working on MERN Stack
 - 
 - :chart_with_upwards_trend: Coding Profiles : 
 - LeetCode : https://leetcode.com/sam02202001/
